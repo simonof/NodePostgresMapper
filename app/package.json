@@ -17,6 +17,6 @@
   "devDependencies": {
     "eslint": "^8.24.0"
   },
-  "description": "",
+  "description": "Node.js App for Mapping Keys in Object by Key Value from Postgres in Docker",
   "type": "module"
 }
