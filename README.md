@@ -27,4 +27,4 @@ npm run start
 ```
 
 App available at:
-'http://localhost:3001/'
+http://localhost:3001/
